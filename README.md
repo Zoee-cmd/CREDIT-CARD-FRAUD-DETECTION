@@ -80,14 +80,12 @@ credit-card-fraud-detection/
 ---
 
 ## **6. Contributors**  
-- [Your Name](https://github.com/your-profile)  
-- [Team Member 2](https://github.com/...)  
+- Team member 1: Anesu Zoe
+  -Team member 2: Jelson Manzou  
 
 **License:** MIT  
 
----
 
-**Questions?** Contact: [your-email@example.com](mailto:your-email@example.com)  
 
 ---  
 This README provides a **clear, structured guide** for users to run, modify, and extend the project. Let me know if you'd like to add/remove any sections! 🚀
